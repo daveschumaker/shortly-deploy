@@ -2,6 +2,7 @@
 .AppleDouble
 .LSOverride
 azure.err
+node_modules
 iisnode.yml
 
 # Icon must ends with two \r.
