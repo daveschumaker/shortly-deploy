@@ -3,6 +3,7 @@ module.exports = function(grunt) {
   grunt.initConfig({
     pkg: grunt.file.readJSON('package.json'),
     concat: {
+    
     },
 
     mochaTest: {
@@ -109,5 +110,6 @@ module.exports = function(grunt) {
       // add your production server task here
   ]);
 
+  grunt.registerTask('default', 'test');
 
 };
