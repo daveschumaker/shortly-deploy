@@ -2,13 +2,12 @@
 .AppleDouble
 .LSOverride
 azure.err
-node_modules
+db/
 iisnode.yml
+node_modules/
 
 # Icon must ends with two \r.
 Icon
-
-
 
 
 # Floobits
